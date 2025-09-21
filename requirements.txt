@@ -1,0 +1,8 @@
+python-telegram-bot>=21,<22
+telegram
+aiohttp
+requests
+aiohttp
+python-telegram-bot>=21,<22
+requests
+telegram
